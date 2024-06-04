@@ -2,10 +2,12 @@
 ## Hi 👋! My name is Jon ... 
 <p>I am a driven Business Information Technology student slated to graduate from RRC Polytech in December 2024. With a passion for innovation and a penchant for problem-solving, I'm carving my path in the realm of application development and cloud computing.</p>
 
-<p>🚀 Currently, I'm immersed in two exciting projects. Firstly, I'm crafting a dynamic Content Management System tailored for storing and sharing recipes, cooking videos, how-to guides, and even automating blog creation. Leveraging Materialize CSS for sleek aesthetics, JavaScript for interactivity, and PHP for robust backend functionalities, I'm turning culinary dreams into digital reality.</p>
+<p>🕸️ Currently, I'm immersed in a few exciting projects. Firstly, I'm diving deep into the world of full-stack development with my passion project, "Fake Sites." It's my playground for building websites and web applications for a variety of fictional personas, each with their own unique needs and challenges. From simple author websites to complex dashboards for IoT devices, I'm constantly pushing myself to expand my skill set and create truly unique solutions.</p>
   
-<p>🌦️ Additionally, I'm revamping a project from my Programming in Python course. This time, I'm elevating a weather processing app by implementing a user-friendly GUI and leveraging threading to enhance its performance and responsiveness. It's a thrilling journey of combining Python prowess with innovative techniques to deliver a top-notch solution.</p>
-  
+<p>🐍 I'm revamping a project from my Programming in Python course. This time, I'm elevating a weather processing app by implementing a user-friendly GUI and leveraging threading to enhance its performance and responsiveness. It's a thrilling journey of combining Python prowess with innovative techniques to deliver a top-notch solution.</p>
+
+<p>🍴 Lastly, I'm crafting a dynamic Content Management System tailored for storing and sharing recipes, cooking videos, how-to guides, and even automating blog creation. Leveraging Materialize CSS for sleek aesthetics, JavaScript for interactivity, and PHP for robust backend functionalities, I'm turning culinary dreams into digital reality.</p>
+
 <p>💼 On the lookout for my next challenge, I'm eager to apply my diverse skill set and gain hands-on industry experience. With a solid foundation in time management and organizational skills, I thrive in collaborative environments where knowledge-sharing and innovation flourish.</p>
   
 <h4>🔧 Here are some of the technologies I wield:</h4>
