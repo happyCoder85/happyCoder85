@@ -116,8 +116,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/happyCoder85/happyCoder85/output/snake.svg" alt="Snake animation" />
-
-###
